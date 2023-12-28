@@ -33,19 +33,7 @@ body {
   display:inline-block;
   margin: 5px;
 }
-
-/* .svg-icon.github {
-  background-image: url(github.svg);
+.fa {
+  color: black;
+  margin-left: 5px;
 }
-
-.svg-icon.twitter {
-  background-image: url(twitter.svg);
-}
-
-.svg-icon.linkedin {
-  background-image: url(linkedin.svg);
-}
-
-.svg-icon.utah {
-  background-image: url(utah.svg);
-} */
